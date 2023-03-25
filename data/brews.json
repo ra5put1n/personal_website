@@ -1,0 +1,20 @@
+[
+  {
+    "date": "02-01-2022",
+    "title": "SRED",
+    "description": "Secure Remote Encrypt and Delete - A simple way to setup encryption and erase functionality which can be triggered remotely.",
+    "icon": "feather:delete"
+  },
+  {
+    "date": "05-30-2021",
+    "title": "SoMa",
+    "description": "Song maker based on a hybrid ML architecture. Takes input of selected songs to learn about the sentiment and remixes the songs to suit a chosen mood.",
+    "icon": "feather:music"
+  },
+  {
+    "date": "05-30-2021",
+    "title": "CentraliZ Solutions inc.",
+    "description": "Business intelligence and management software for local businesses.",
+    "icon": "feather:dollar-sign"
+  }
+]

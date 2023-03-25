@@ -1,0 +1,17 @@
+{
+	"version": 2,
+	"alias": "kr1shna",
+	"cleanUrls": true,
+	"public": true,
+	"regions": ["lhr1"],
+	"redirects": [
+		{ "source": "/calendar", "destination": "https://read.cv/krishnakaipa" },
+		{ "source": "/cv", "destination": "https://read.cv/krishnakaipa" },
+		{ "source": "/github", "destination": "https://github.com/ra5put1n" },
+		{ "source": "/linkedin", "destination": "https://www.linkedin.com/in/kr1shna-ka1pa/" },
+		{ "source": "/meeting", "destination": "https://read.cv/krishnakaipa" },
+		{ "source": "/resume", "destination": "https://read.cv/krishnakaipa" },
+		{ "source": "/schedule", "destination": "https://krishna-kaipa.youcanbook.me/" },
+		{ "source": "/twitter", "destination": "https://twitter.com/kaipa_krishna" }
+	]
+}

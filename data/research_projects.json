@@ -1,0 +1,40 @@
+[
+  {
+    "date": "01-01-2023",
+    "title": "Detecting licensing conflicts in the worldwide software ecosystem",
+    "description": "Developed a tool on top of SearchSECO to detect license conflicts in OSS ecosystem.",
+    "icon": "feather:briefcase",
+    "link": {
+      "text": "SecureSECO research group",
+      "url": "https://secureseco.org/"
+    }
+  },
+  {
+    "date": "06-12-2022",
+    "title": "Anomaly Classification to Enable Self-Healing in Cyber Physical Systems using Process Mining",
+    "description": "Performing process optimisation using ensemble learning techniques from event log data.",
+    "icon": "feather:briefcase"
+  },
+  {
+    "date": "02-01-2022",
+    "title": "Threat and risk modelling for Industrial IoT Systems",
+    "description": "Working on a quantitative threat modelling and risk assessment framework for Industrial IoT systems based on a novel risk scoring method.",
+    "icon": "feather:briefcase"
+  },
+  {
+    "date": "12-31-2021",
+    "title": "Taxonomy and classification of energy inefficient code patterns",
+    "description": "Conducted research to categorize the different patterns of code which are energy inefficient and classified the different ways this shows up in the global code base. A framework was developed to aid developers in writing code which uses optimal amount of energy.",
+    "icon": "feather:briefcase",
+    "link": {
+      "text": "SecureSECO research group",
+      "url": "https://secureseco.org/"
+    }
+  },
+  {
+    "date": "09-11-2021",
+    "title": "Vaccine distribution and accessibility in the USA ",
+    "description": "Worked on finding gaps in accessibility to vaccines in the USA using visualizations. The team was able to find significant lapses in distribution strategy and proposed optimisations for equitable vaccine availability.",
+    "icon": "feather:briefcase"
+  }
+]
